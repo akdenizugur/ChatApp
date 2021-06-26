@@ -1,2 +1,1 @@
-# ChatApp
- 
+# PHP & MySQL & JavaScript kullanılarak hazırlanan anlık sohbet uygulaması
